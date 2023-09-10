@@ -1,3 +1,19 @@
+#Projeto 4º Perido Faculdade Uninassau
+
+```
+[ 
+  {
+    Wdenberg Ramos - MT: 01559841
+    David Jorge -- MT: 01527162
+    João Vichtor -- MT: 01528233
+    Eduardo Estevão -- MT: 01566933
+  }
+] 
+```
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
